@@ -1,4 +1,4 @@
-# RestAPI on NodeJS + express + PostgresQL
+# Rest API on NodeJS + express + PostgresQL
 
 It is a simple project which displays how to develop REST API service using NodeJS. PostgreSQL is used as database.
 
